@@ -1,0 +1,16 @@
+# dependecnias y compilados (UA4: typeScript u Angular)
+node_modules/
+dist/
+.angular/
+
+#Registros y variables de entorno
+*.log
+.env
+
+#Archivos del sistema operativo
+Thumbs.db
+desktop.ini
+.Ds_Store
+
+#Archivos temporales de office
+~$*

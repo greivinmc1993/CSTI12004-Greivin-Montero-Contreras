@@ -56,8 +56,8 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 
 <h2>📋 Registro de evidencias</h2>
 
-<details>
-<summary>▼<b>Unidad 1 · Elaboración de componentes de software con JavaScript (sesiones 1 a 9)</b></summary>
+<details open>
+<summary><b>Unidad 1 · Elaboración de componentes de software con JavaScript (sesiones 1 a 9)</b></summary>
 <br>
 <table>
     <thead>
@@ -139,7 +139,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 </details>
 
 <details>
-<summary>▼<b>Unidad 2 · Manipulación del DOM e interactividad web (sesiones 10 a 21)</b></summary>
+<summary><b>Unidad 2 · Manipulación del DOM e interactividad web (sesiones 10 a 21)</b></summary>
 <br>
 <table>
     <thead>
@@ -242,7 +242,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 </details>
 
 <details>
-<summary>▼<b>Unidad 3 · Lineamientos de accesibilidad web (sesiones 22 a 27)</b></summary>
+<summary><b>Unidad 3 · Lineamientos de accesibilidad web (sesiones 22 a 27)</b></summary>
 <br>
 <table>
     <thead>
@@ -303,7 +303,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 </details>
 
 <details>
-<summary>▼<b>Unidad 4 · Frameworks: TypeScript y Angular (sesiones 28 a 38)</b></summary>
+<summary><b>Unidad 4 · Frameworks: TypeScript y Angular (sesiones 28 a 38)</b></summary>
 <br>
 <table>
     <thead>

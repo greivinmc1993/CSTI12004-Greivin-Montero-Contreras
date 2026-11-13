@@ -73,30 +73,30 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S01</td>
             <td>Bienvenida, encuadre y diagnóstico</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">---------------------------</td>
             <td align="center"><a href="UA1/S01/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S02</td>
             <td>Entorno de trabajo, MVC y JavaScript</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">Aprendí sobre JavaScript, MVC, sintaxis, semántica y errores de programación.</td>
             <td align="center"><a href="UA1/S02/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S03</td>
             <td>Entorno en el laboratorio y mi primer script</td>
-            <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UA1/S03/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S03/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">Aprendí a enlazar JavaScript, identificar errores y aplicar MVC.</td>
+            <td align="center"><a href="UA1/S3-12-11-2026/1.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S3-12-11-2026/C1.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S04</td>
             <td>Variables, constantes, tipos y operadores</td>
-            <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UA1/S04/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S04/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">Aprendí a usar variables, constantes, tipos, operadores y prompt.</td>
+            <td align="center"><a href="UA1/S4-13-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S4-13-11-2026/capturas/C1.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S05</td>
@@ -405,7 +405,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
 <p>Las tablas que pide cada práctica se completan aquí, en un bloque por clase. En cada sesión se comparte el bloque de esa clase: péguelo donde indica el aviso 📌, al final de esta sección.</p>
 
 <details>
-<summary>▼<b>Clase 01 · 10/11/2026 · Bienvenida, encuadre y diagnóstico</b></summary>
+<summary><b>Clase 01 · 10/11/2026 · Bienvenida, encuadre y diagnóstico</b></summary>
 
 Archivo: [S01_Cuadro_comparativo_Nombre_Apellido.docx](UA1/S01/S01_Cuadro_comparativo_Nombre_Apellido.docx) (tarea para la clase 2).
 
@@ -416,32 +416,32 @@ La diferencia más importante que encontré entre C y JavaScript:
 </details>
 
 <details>
-<summary>▼<b>Clase 02 · 11/11/2026 · ¿Sintaxis o semántica?</b></summary>
+<summary><b>Clase 02 · 11/11/2026 · ¿Sintaxis o semántica?</b></summary>
 
 Archivo: [pruebas/js/pruebas.js](UA1/S02/pruebas/js/pruebas.js)
 
-| Línea | Qué mostró la consola | Tipo | Corrección |
-| ----- | --------------------- | ---- | ---------- |
-| 2     |                       |      |            |
-| 3     |                       |      |            |
-| 4     |                       |      |            |
-| 5     |                       |      |            |
-| 6     |                       |      |            |
-| 7     |                       |      |            |
+| Línea | Qué mostró la consola |   Tipo   | Corrección |
+| ----- | --------------------- | -------- | ---------- |
+| 2     | Promedio: 80          | Correcta | No necesita corrección |
+| 3     | SyntaxError: Unexpected token ')'| Sintaxis   | Eliminar el paréntesis ) sobrante |
+| 4     | Total: 1500900        | Semántica| Usar paréntesis para sumar: (1500 + 900)       |
+| 5     | Bienvenida al "INA"   | Correcta | No necesita corrección |
+| 6     | Perímetro de 4 x 3: 10| Semántica| Calcular 2 * (4 + 3) para obtener 14.          |
+| 7     | SyntaxError: missing ) after argument list| Sintaxis| Escapar las comillas internas con \". |
 
 **Autoevaluación**
 
 | Indicador                                                                                      | Sí  | Aún no |
 | ---------------------------------------------------------------------------------------------- | --- | ------ |
-| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. |     |        |
-| Mi repositorio está en GitHub con el README.                                                   |     |        |
-| Distingo un error de sintaxis de uno de semántica.                                             |     |        |
-| Uso `//` para aislar un error y seguir probando.                                               |     |        |
+| Copié Luz Clara en `luz-clara/` y Casa Tomillo en `casa-tomillo/`, y los abro con Live Server. |  X  |        |
+| Mi repositorio está en GitHub con el README.                                                   |  X  |        |
+| Distingo un error de sintaxis de uno de semántica.                                             |  X  |        |
+| Uso `//` para aislar un error y seguir probando.                                               |  X  |        |
 
 </details>
 
 <details>
-<summary>▼<b>Clase 03 · 12/11/2026 · Cacería de errores</b></summary>
+<summary><b>Clase 03 · 12/11/2026 · Cacería de errores</b></summary>
 
 Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara/js/ficha.js](luz-clara/js/ficha.js) · [casa-tomillo/js/talleres.js](casa-tomillo/js/talleres.js)
 
@@ -449,30 +449,30 @@ Archivos: [horario/js/horarios.js](UA1/S03/horario/js/horarios.js) · [luz-clara
 
 | #   | Mensaje de la consola | Archivo:línea | Corrección |
 | --- | --------------------- | ------------- | ---------- |
-| 1   |                       |               |            |
-| 2   |                       |               |            |
-| 3   |                       |               |            |
-| 4   |                       |               |            |
+| 1   | 404 (Not Found)       | index.html:10 | Cambiar horario.js por horarios.js en el src|
+| 2   | Uncaught SyntaxError: Invalid or unexpected token  | horarios.js:3 | Agregar las comillas de cierre al texto|
+| 3   | Uncaught ReferenceError: Console is not defined| horarios.js:4 | Cambiar Console.log por console.log |
+| 4   | No aparece error en la consola | horarios.js:5 | Agregar ; al final de la instrucción |
 
 **Reto MVC**
 
 | Elemento | Componente | Justificación |
 | -------- | ---------- | ------------- |
-| 1        |            |               |
-| 2        |            |               |
-| 3        |            |               |
-| 4        |            |               |
-| 5        |            |               |
-| 6        |            |               |
+| 1        | Modelo     | Guarda los datos de los talleres, como nombre, nivel y precio |
+| 2        | Vista      | Muestra la tabla de talleres y sus estilos al usuario         |
+| 3        | Controlador| Recibe la selección del usuario y solicita registrar la inscripción|
+| 4        | Modelo     | Administra la información de los cupos disponibles |
+| 5        | Vista      | Muestra el mensaje de confirmación en la pantalla  |
+| 6        | Controlador| Valida que se haya marcado «Acepto» antes de enviar|
 
 **Autoevaluación**
 
 | Indicador                                                       | Sí  | Aún no |
 | --------------------------------------------------------------- | --- | ------ |
-| Enlazo un archivo .js al final del body o en el head con defer. |     |        |
-| Uso comentarios de línea y de bloque.                           |     |        |
-| Uso \n, \t, \", \\ y \u en textos.                              |     |        |
-| Leo el tipo de error, el mensaje y la línea en la consola.      |     |        |
+| Enlazo un archivo .js al final del body o en el head con defer. |  X  |        |
+| Uso comentarios de línea y de bloque.                           |  X  |        |
+| Uso \n, \t, \", \\ y \u en textos.                              |  X  |        |
+| Leo el tipo de error, el mensaje y la línea en la consola.      |  X  |        |
 
 </details>
 
@@ -491,31 +491,31 @@ CÓMO USAR ESTE BLOQUE (Clase 04)
 -->
 
 <details>
-<summary>▼<b>Clase 04 · 13/11/2026 · Variables, tipos y operadores</b></summary>
+<summary><b>Clase 04 · 13/11/2026 · Variables, tipos y operadores</b></summary>
 
 **Predicciones**
 
 | #   | Expresión        | Mi predicción | Lo que mostró la consola |
 | --- | ---------------- | ------------- | ------------------------ |
-| 1   | `typeof "95000"` |               |                          |
-| 2   | `typeof 95000`   |               |                          |
-| 3   | `typeof 9.5`     |               |                          |
-| 4   | `typeof "true"`  |               |                          |
-| 5   | `"5" + 2`        |               |                          |
-| 6   | `"5" - 2`        |               |                          |
-| 7   | `5 === "5"`      |               |                          |
-| 8   | `10 % 3`         |               |                          |
-| 9   | `true && false`  |               |                          |
-| 10  | `!(3 > 2)`       |               |                          |
+| 1   | `typeof "95000"` | string        | "string"                 |
+| 2   | `typeof 95000`   | number        | "number"                 |
+| 3   | `typeof 9.5`     | number        | "number"                 |
+| 4   | `typeof "true"`  | string        | "string"                 |
+| 5   | `"5" + 2`        | 52            | "52"                     |
+| 6   | `"5" - 2`        | 3             | 3                        |
+| 7   | `5 === "5"`      | false         | false                    |
+| 8   | `10 % 3`         | 1             | 1                        |
+| 9   | `true && false`  | false         | false                    |
+| 10  | `!(3 > 2)`       | false         | false                    |
 
 **Autoevaluación**
 
 | Indicador                                                 | Sí  | Aún no |
 | --------------------------------------------------------- | --- | ------ |
-| Uso const si el valor no cambia y let si cambia.          |     |        |
-| Reconozco cadenas, números, booleanos y null.             |     |        |
-| Calculo con operadores en lugar de escribir el resultado. |     |        |
-| Sé que prompt devuelve texto y lo convierto con Number.   |     |        |
+| Uso const si el valor no cambia y let si cambia.          |  X  |        |
+| Reconozco cadenas, números, booleanos y null.             |  X  |        |
+| Calculo con operadores en lugar de escribir el resultado. |  X  |        |
+| Sé que prompt devuelve texto y lo convierto con Number.   |  X  |        |
 
 </details>
 

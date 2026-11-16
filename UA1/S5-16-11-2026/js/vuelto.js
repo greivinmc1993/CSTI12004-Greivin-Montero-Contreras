@@ -8,7 +8,7 @@ totalPagar = personas * total;
 
 let monto = parseFloat(prompt("Ingrese con cuanto paga: "));
 
-let vuelto = monto - totalPagar;
+let vuelto = (monto - totalPagar).toFixed(2);
 
 console.log(`Personas: ${personas}`);
 console.log(`A pagar: ${totalPagar.toLocaleString("es-CR")}`);

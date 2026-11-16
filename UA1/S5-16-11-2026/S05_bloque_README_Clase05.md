@@ -1,5 +1,5 @@
 <!--
-CÓMO USAR ESTE BLOQUE (Clase 04)
+CÓMO USAR ESTE BLOQUE (Clase 05)
 1. Abra el README.md de la carpeta principal del repositorio
    (Mod5_PrograWeb_EntornoCliente-Nombre/README.md). Es el único README.
 2. Busque la sección «📝 Respuestas de las prácticas».
@@ -13,30 +13,31 @@ CÓMO USAR ESTE BLOQUE (Clase 04)
 -->
 
 <details>
-<summary>▼<b>Clase 04 · 13/11/2026 · Variables, tipos y operadores</b></summary>
+<summary>▼<b>Clase 05 · 16/11/2026 · Números, textos, fechas y conversión</b></summary>
 
 **Predicciones**
 
 | # | Expresión | Mi predicción | Lo que mostró la consola |
 |---|---|---|---|
-| 1 | `typeof "95000"` |  |  |
-| 2 | `typeof 95000` |  |  |
-| 3 | `typeof 9.5` |  |  |
-| 4 | `typeof "true"` |  |  |
-| 5 | `"5" + 2` |  |  |
-| 6 | `"5" - 2` |  |  |
-| 7 | `5 === "5"` |  |  |
-| 8 | `10 % 3` |  |  |
-| 9 | `true && false` |  |  |
-| 10 | `!(3 > 2)` |  |  |
+| 1 | `Math.round(2.5)` |  |  |
+| 2 | `Math.floor(9.99)` |  |  |
+| 3 | `"Luz".length` |  |  |
+| 4 | `"casa".toUpperCase()` |  |  |
+| 5 | `parseInt("12.9 horas")` |  |  |
+| 6 | `Number("doce")` |  |  |
+| 7 | `(3.14159).toFixed(2)` |  |  |
+| 8 | `typeof (10).toString()` |  |  |
+| 9 | `new Date(2026, 0, 1).getMonth()` |  |  |
+| 10 | <code>`2 + 3 = ${2 + 3}`</code> |  |  |
 
 **Autoevaluación**
 
 | Indicador | Sí | Aún no |
 |---|---|---|
-| Uso const si el valor no cambia y let si cambia. | | |
-| Reconozco cadenas, números, booleanos y null. | | |
-| Calculo con operadores en lugar de escribir el resultado. | | |
-| Sé que prompt devuelve texto y lo convierto con Number. | | |
+| Uso métodos de Math (round, floor, ceil). | | |
+| Limpio y transformo textos (trim, toUpperCase, length). | | |
+| Creo fechas recordando que los meses empiezan en 0. | | |
+| Muestro montos en colones con Intl. | | |
+| Elijo entre Number, parseInt y parseFloat. | | |
 
 </details>

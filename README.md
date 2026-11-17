@@ -101,9 +101,9 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S05</td>
             <td>Números, textos, fechas y conversión de datos</td>
-            <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UA1/S05/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S05/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">Aprendí a manipular números, textos, fechas y convertir datos.</td>
+            <td align="center"><a href="UA1/S5-16-11-2026/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Recursos/1.png" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S06</td>
@@ -540,26 +540,26 @@ CÓMO USAR ESTE BLOQUE (Clase 05)
 
 | # | Expresión | Mi predicción | Lo que mostró la consola |
 |---|---|---|---|
-| 1 | `Math.round(2.5)` |  |  |
-| 2 | `Math.floor(9.99)` |  |  |
-| 3 | `"Luz".length` |  |  |
-| 4 | `"casa".toUpperCase()` |  |  |
-| 5 | `parseInt("12.9 horas")` |  |  |
-| 6 | `Number("doce")` |  |  |
-| 7 | `(3.14159).toFixed(2)` |  |  |
-| 8 | `typeof (10).toString()` |  |  |
-| 9 | `new Date(2026, 0, 1).getMonth()` |  |  |
-| 10 | <code>`2 + 3 = ${2 + 3}`</code> |  |  |
+| 1 | `Math.round(2.5)` | 3 | 3 |
+| 2 | `Math.floor(9.99)` | 9 | 9 |
+| 3 | `"Luz".length` | 3 | 3 |
+| 4 | `"casa".toUpperCase()` | CASA | "CASA" |
+| 5 | `parseInt("12.9 horas")` | 12 | 12 |
+| 6 | `Number("doce")` | NaN | NaN |
+| 7 | `(3.14159).toFixed(2)` | "3.14" | "3.14" |
+| 8 | `typeof (10).toString()` | string | "string" |
+| 9 | `new Date(2026, 0, 1).getMonth()` | 0 | 0 |
+| 10 | <code>`2 + 3 = ${2 + 3}`</code> | 2 + 3 = 5 | "2 + 3 = 5" |
 
 **Autoevaluación**
 
 | Indicador | Sí | Aún no |
 |---|---|---|
-| Uso métodos de Math (round, floor, ceil). | | |
-| Limpio y transformo textos (trim, toUpperCase, length). | | |
-| Creo fechas recordando que los meses empiezan en 0. | | |
-| Muestro montos en colones con Intl. | | |
-| Elijo entre Number, parseInt y parseFloat. | | |
+| Uso métodos de Math (round, floor, ceil). | X | |
+| Limpio y transformo textos (trim, toUpperCase, length). | X | |
+| Creo fechas recordando que los meses empiezan en 0. | X | |
+| Muestro montos en colones con Intl. | X | |
+| Elijo entre Number, parseInt y parseFloat. | X | |
 
 </details>
 

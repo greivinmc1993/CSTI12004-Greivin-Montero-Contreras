@@ -67,6 +67,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <th align="center">Qué aprendí</th>
             <th align="center">Trabajo</th>
             <th align="center">Captura</th>
+            <th align="center">Refuerzo</th>
         </tr>
     </thead>
     <tbody>
@@ -76,6 +77,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">-----------------------------------------------</td>
             <td align="center"><a href="UA1/S1-10-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S1-10-11-2026/" target="_blank" rel="noopener">N/A</a></td>
         </tr>
         <tr>
             <td align="center">S02</td>
@@ -83,6 +85,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">Aprendí sobre JavaScript, MVC, sintaxis, semántica y errores de programación.</td>
             <td align="center"><a href="UA1/S2-11-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S2-11-11-2026/Refuerzo/Refuerzo_S02_JavaScript_MVC.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S03</td>
@@ -90,6 +93,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">Aprendí a enlazar JavaScript, identificar errores y aplicar MVC.</td>
             <td align="center"><a href="UA1/S3-12-11-2026" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S3-12-11-2026/C1.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S3-12-11-2026/Refuerzo/Ficha_refuerzo_S03_JavaScript_MVC.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S04</td>
@@ -97,6 +101,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">Aprendí a usar variables, constantes, tipos, operadores y prompt.</td>
             <td align="center"><a href="UA1/S4-13-11-2026" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S4-13-11-2026/capturas/C1.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S4-13-11-2026/Refuerzo/Refuerzo_S04_Variables_Tipos_y_Operadores_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S05</td>
@@ -104,6 +109,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">Aprendí a manipular números, textos, fechas y convertir datos.</td>
             <td align="center"><a href="UA1/S5-16-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Recursos/1.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S06</td>
@@ -111,6 +117,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S06/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S07</td>
@@ -118,6 +125,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA1/S07/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S07/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S08</td>
@@ -125,6 +133,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA1/S08/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S08/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S09</td>
@@ -132,6 +141,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA1/S09/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S09/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
     </tbody>
 </table>
@@ -149,6 +159,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <th align="center">Qué aprendí</th>
             <th align="center">Trabajo</th>
             <th align="center">Captura</th>
+            <th align="center">Refuerzo</th>
         </tr>
     </thead>
     <tbody>
@@ -158,6 +169,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S10/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S10/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S11</td>
@@ -165,6 +177,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S11/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S11/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S12</td>
@@ -172,6 +185,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S12/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S12/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S13</td>
@@ -179,6 +193,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S13/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S13/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S14</td>
@@ -186,6 +201,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S14/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S14/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S15</td>
@@ -193,6 +209,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S15/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S15/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S16</td>
@@ -200,6 +217,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S16/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S16/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S17</td>
@@ -207,6 +225,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S17/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S17/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S18</td>
@@ -214,6 +233,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S18/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S18/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S19</td>
@@ -221,6 +241,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/S19/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/S19/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S20</td>
@@ -228,6 +249,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/AC1/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/AC1/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S21</td>
@@ -235,6 +257,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA2/AC1/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA2/AC1/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
     </tbody>
 </table>
@@ -252,6 +275,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <th align="center">Qué aprendí</th>
             <th align="center">Trabajo</th>
             <th align="center">Captura</th>
+            <th align="center">Refuerzo</th>
         </tr>
     </thead>
     <tbody>
@@ -261,6 +285,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA3/S22/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA3/S22/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S23</td>
@@ -268,6 +293,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA3/S23/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA3/S23/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S24</td>
@@ -275,6 +301,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA3/S24/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA3/S24/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S25</td>
@@ -282,6 +309,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA3/S25/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA3/S25/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S26</td>
@@ -289,6 +317,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA3/S26/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA3/S26/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S27</td>
@@ -296,6 +325,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA3/AC2/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA3/AC2/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
     </tbody>
 </table>
@@ -313,6 +343,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <th align="center">Qué aprendí</th>
             <th align="center">Trabajo</th>
             <th align="center">Captura</th>
+            <th align="center">Refuerzo</th>
         </tr>
     </thead>
     <tbody>
@@ -322,6 +353,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S28/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S28/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S29</td>
@@ -329,6 +361,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S29/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S29/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S30</td>
@@ -336,6 +369,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S30/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S30/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S31</td>
@@ -343,6 +377,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S31/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S31/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S32</td>
@@ -350,6 +385,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S32/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S32/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S33</td>
@@ -357,6 +393,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S33/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S33/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S34</td>
@@ -364,6 +401,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S34/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S34/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S35</td>
@@ -371,6 +409,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/S35/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/S35/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S36</td>
@@ -378,6 +417,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/AC3/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/AC3/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S37</td>
@@ -385,6 +425,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/AC3/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/AC3/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
             <td align="center">S38</td>
@@ -392,6 +433,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA4/AC3/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA4/AC3/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
     </tbody>
 </table>
@@ -624,7 +666,7 @@ CÓMO USAR ESTE BLOQUE (Clase 05)
 
 <div align="center">
 
-<strong>Nombre Apellido1 Apellido2</strong>
+<strong>Greivin Montero Contreras</strong>
 
 <p>Portafolio elaborado durante el módulo CSTI12004 · Instituto Nacional de Aprendizaje · 2026-2027</p>
 

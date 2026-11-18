@@ -74,7 +74,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S01</td>
             <td>Bienvenida, encuadre y diagnóstico</td>
-            <td align="left">-----------------------------------------------</td>
+            <td align="left">---------------------------------------</td>
             <td align="center"><a href="UA1/S1-10-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S1-10-11-2026/" target="_blank" rel="noopener">N/A</a></td>

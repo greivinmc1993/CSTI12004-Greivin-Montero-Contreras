@@ -116,7 +116,12 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td>Decisiones y depuración en el navegador</td>
             <td align="left">(Completar al terminar la sesión)</td>
             <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S06/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center">
+            <a href="UA1/S6-18-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a>
+            <br>
+            <a href="UA1/S6-18-11-2026/capturas/2.png" target="_blank" rel="noopener">Ver</a>
+            <br>
+            <a href="UA1/S6-18-11-2026/capturas/3.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>
@@ -612,32 +617,42 @@ CÓMO USAR ESTE BLOQUE (Clase 05)
   
 | Prueba | Mensajes que mostró la consola | 
 |---|---| 
-| cupos = 6 |  | 
-| cupos = 2 |  | 
-| cupos = 0 |  | 
-Instituto Nacional de Aprendizaje CSTI12004 Programación web en el entorno cliente 
-Núcleo Comercio y Servicios · Subsector Informática y Comunicación Sesión 6 · Práctica autónoma 
-Persona facilitadora: Giovanni Antonio Coto Calderón Página 6 de 6 
-| nivel = "Intermedio" |  | 
+| cupos = 6 | Hay cupos disponibles; Quedan 6 cupos; No necesita experiencia  | 
+| cupos = 2 | ¡Últimos cupos!; Quedan 2 cupos; No necesita experiencia  | 
+| cupos = 0 | Taller lleno; Quedan 0 cupos; No necesita experiencia | 
+| nivel = "Intermedio" | Hay cupos disponibles; Quedan 6 cupos; Requiere el nivel inicial | 
+
+Cada mensaje aparece en una línea distinta. Prueba adicional: con 1 aparece «Queda 1 cupo».
+
+**Ejercicio 2 · Horarios** 
+
+| Entrada | Resultado esperado |
+|---|---|
+| « Sábado » | El sábado abre de 10:00 a. m. a 7:00 p. m. |
+| lunes | El lunes está cerrado |
+| Cancelar | No se indicó un día. |
+
+Siempre se muestra «Casa Tomillo · Barrio Amón» al final.
+Se comprueba Cancelar antes de usar trim. El default sigue el enunciado: no valida palabras que no sean días.
   
 **Ejercicio 3 · Cacería con DevTools** 
   
 | Pregunta | Respuesta | 
 |---|---| 
-| ¿En qué línea puso el punto de interrupción? |  | 
-| ¿Qué valor tenía descuento al detenerse? |  | 
-| ¿Cuál era la causa del error? |  | 
-| ¿Cómo lo corrigió? |  | 
+| ¿En qué línea puso el punto de interrupción? | En la linea 4 | 
+| ¿Qué valor tenía descuento al detenerse? | 0 | 
+| ¿Cuál era la causa del error? | Mal el monto >= 50000 | 
+| ¿Cómo lo corrigió? | monto <= 5000 | 
   
 **Autoevaluación** 
   
 | Indicador | Sí | Aún no | 
 |---|---|---| 
-| Escribo if / else if / else con las condiciones en el orden correcto. | | | 
-| Uso el ternario para elegir entre dos valores. | | | 
-| Escribo switch con break y default. | | | 
-| Pongo un punto de interrupción y avanzo con F10. | | | 
-| Uso try / catch para que el programa no se detenga. | | | 
+| Escribo if / else if / else con las condiciones en el orden correcto. | X | | 
+| Uso el ternario para elegir entre dos valores. | X | | 
+| Escribo switch con break y default. | X | | 
+| Pongo un punto de interrupción y avanzo con F10. | | X | 
+| Uso try / catch para que el programa no se detenga. | X | | 
   
 </details> 
 

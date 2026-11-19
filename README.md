@@ -127,7 +127,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S07</td>
             <td>Repeticiones, vectores y matrices</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">Aprendí condicionales, ternarios, switch, depuración y manejo de errores.</td>
             <td align="center"><a href="UA1/S07/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S07/capturas/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>

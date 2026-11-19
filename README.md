@@ -115,7 +115,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center">S06</td>
             <td>Decisiones y depuración en el navegador</td>
             <td align="left">Aprendí condicionales, ternarios, switch, depuración y manejo de errores.</td>
-            <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S6-18-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center">
             <a href="UA1/S6-18-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a>
             <br>

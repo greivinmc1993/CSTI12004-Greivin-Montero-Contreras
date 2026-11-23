@@ -129,7 +129,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td>Repeticiones, vectores y matrices</td>
             <td align="left">Aprendí ciclos, vectores, matrices y cómo recorrer datos.</td>
             <td align="center"><a href="UA1/S7-23-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S7-23-11-2026/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S7-23-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
         </tr>
         <tr>

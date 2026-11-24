@@ -23,10 +23,10 @@ while (cupos > 0) {
     ronda++;
 
     //* Math.min() devuelve el menor de los valores recibidos.
-    //
+    
     //* Comparamos 3 personas con los cupos disponibles.
     //* Esto evita inscribir más personas de las permitidas.
-    //
+    
     //* Primera ronda: Math.min(3, 8) = 3
     //* Segunda ronda: Math.min(3, 5) = 3
     //* Tercera ronda: Math.min(3, 2) = 2

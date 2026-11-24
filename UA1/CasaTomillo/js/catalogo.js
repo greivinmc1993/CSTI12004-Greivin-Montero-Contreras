@@ -45,7 +45,7 @@ for (const t of talleres) {
     //* toLocaleString("fr-FR") separa los miles con espacios.
     //* ${} permite insertar variables dentro de un texto.
 
-    console.log(`${t.nombre}: ₡${t.precio.toLocaleString("fr-FR")}`);
+    console.log(`${t.nombre}: ₡${t.precio.toLocaleString("es-CR")}`);
 
     //* Sumamos el precio actual al acumulador.
     //* Es equivalente a: suma = suma + t.precio;

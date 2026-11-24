@@ -68,6 +68,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <th align="center">Trabajo</th>
             <th align="center">Captura</th>
             <th align="center">Refuerzo</th>
+            <th align="center">Cuestionario</th>
         </tr>
     </thead>
     <tbody>
@@ -78,6 +79,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center"><a href="UA1/S1-10-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S01/capturas/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S1-10-11-2026/" target="_blank" rel="noopener">N/A</a></td>
+            <td align="center"><a href="UA1/S1-10-11-2026/Cuestionario_S01_Introduccion_C_JavaScript_TypeScript.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S02</td>
@@ -86,6 +88,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center"><a href="UA1/S2-11-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S2-11-11-2026/Refuerzo/Refuerzo_S02_JavaScript_MVC.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S2-11-11-2026/Cuestionario_S02_JavaScript_MVC_y_Errores.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S03</td>
@@ -94,6 +97,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center"><a href="UA1/S3-12-11-2026" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S3-12-11-2026/C1.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S3-12-11-2026/Refuerzo/Ficha_refuerzo_S03_JavaScript_MVC.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S3-12-11-2026/Cuestionario_S03_Mi_Primer_Script.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S04</td>
@@ -102,6 +106,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center"><a href="UA1/S4-13-11-2026" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S4-13-11-2026/capturas/C1.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S4-13-11-2026/Refuerzo/Refuerzo_S04_Variables_Tipos_y_Operadores_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S4-13-11-2026/Cuestionario_S04_Variables_Tipos_y_Operadores.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S05</td>
@@ -110,6 +115,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center"><a href="UA1/S5-16-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Recursos/1.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S5-16-11-2026/Cuestionario_S05_Numeros_Textos_Fechas_y_Conversion.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S06</td>
@@ -123,6 +129,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <br>
             <a href="UA1/S6-18-11-2026/capturas/3.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S6-18-11-2026/Refuerzo/Refuerzo_S06_Decisiones_y_Depuracion_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S6-18-11-2026/Cuestionario_S06_Decisiones_y_Depuracion.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S07</td>
@@ -131,6 +138,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td align="center"><a href="UA1/S7-23-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S7-23-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S7-23-11-2026/Cuestionario_S07_Repeticiones_Vectores_Matrices.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S08</td>

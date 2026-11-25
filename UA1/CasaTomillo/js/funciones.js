@@ -13,7 +13,7 @@ function costoGrupo(monto, cantidad) {
         return "NO ES UN DATO VALIDO"
     }
 
-    const desc = 0;
+    let desc = 0;
 
     if (cantidad >= 3) {
         desc = 0.10;
@@ -21,7 +21,11 @@ function costoGrupo(monto, cantidad) {
         desc = 0;
     }
 
-    return conMatricula(monto) * cantidad - ((conMatricula(monto) * cantidad) * desc)
+    return enColones(conMatricula(monto) * cantidad - ((conMatricula(monto) * cantidad) * desc));
 }
 
 console.log();
+
+console.log(enColones(45000));
+console.log(conMatricula(45000));
+console.log(costoGrupo(45000, 3));

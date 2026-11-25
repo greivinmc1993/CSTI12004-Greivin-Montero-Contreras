@@ -13,7 +13,7 @@ CÓMO USAR ESTE BLOQUE (Clase 08)
 -->
 
 <details>
-<summary>▼<b>Clase 08 · 24/11/2026 · Funciones</b></summary>
+<summary><b>Clase 08 · 24/11/2026 · Funciones</b></summary>
 
 **¿Qué muestra?** (prediga y luego compruebe en la consola)
 

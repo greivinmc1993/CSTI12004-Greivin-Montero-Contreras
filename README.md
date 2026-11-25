@@ -143,18 +143,20 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S08</td>
             <td>Funciones</td>
-            <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UA1/S08/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="left">Aprendí funciones, parámetros, retornos, validaciones, callbacks y closures.</td>
+            <td align="center"><a href="UA1/S8-24-11-2026/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S08/capturas/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S8-24-11-2026/Refuerzo/Refuerzo_S08_Funciones_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S7-23-11-2026/Cuestionario_S07_Repeticiones_Vectores_Matrices.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S09</td>
             <td>Objetos y clases + integración MVC · Introducción al DOM</td>
-            <td align="left">(Completar al terminar la sesión)</td>
-            <td align="center"><a href="UA1/S09/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S09/capturas/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S5-16-11-2026/Refuerzo/Refuerzo_S05_Numeros_Textos_Fechas_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="left">Aprendí a usar objetos, clases, métodos, callbacks y MVC.</td>
+            <td align="center"><a href="UA1/S9-25-11-2026/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S9-25-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S9-25-11-2026/Refuerzo/Refuerzo_S09_Objetos_Clases_MVC_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
+            <td align="center"><a href="UA1/S9-25-11-2026/Cuestionario_S09_Objetos_Clases_MVC.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>
     </tbody>
 </table>
@@ -732,12 +734,12 @@ Marcá **Sí** si podés explicar o hacer el ejercicio por tu cuenta. Si todaví
 
 | Indicador | Sí | Aún no |
 |---|---|---|
-| Explico por qué usar un vector de objetos en lugar de vectores paralelos. | | |
-| Elijo entre `for`, `for...of` y `forEach` y explico por qué. | | |
-| Reescribo un `for` + `push` con `map` y un `for` + `if` + `push` con `filter`. | | |
-| Creo un objeto con propiedades y un método. | | |
-| Declaro una clase con constructor y la uso con `new`. | | |
-| Explico qué hace el modelo, la vista y el controlador. | | |
+| Explico por qué usar un vector de objetos en lugar de vectores paralelos. | X | |
+| Elijo entre `for`, `for...of` y `forEach` y explico por qué. | X | |
+| Reescribo un `for` + `push` con `map` y un `for` + `if` + `push` con `filter`. | X | |
+| Creo un objeto con propiedades y un método. | X | |
+| Declaro una clase con constructor y la uso con `new`. | | X |
+| Explico qué hace el modelo, la vista y el controlador. | | X |
 
 **¿Qué aprendí?** Aprendí a recorrer, transformar y filtrar arreglos y crear objetos.
 

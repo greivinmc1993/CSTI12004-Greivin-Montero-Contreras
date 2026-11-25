@@ -698,6 +698,51 @@ Aprendí ciclos, vectores, matrices y cómo recorrer sus elementos.
 
 </details>
 
+<details>
+<summary><b>Clase 09 · 25/11/2026 · Repaso guiado, objetos y clases</b></summary>
+
+**Problema → ventaja**
+
+| Herramienta | ¿Qué problema resuelve? | ¿Qué ventaja trae? |
+|---|---|---|
+| Vector | Necesito guardar varios valores relacionados. | Los guardo juntos y puedo acceder a cada uno por su posición. |
+| Vector de objetos | Cada elemento tiene varios datos, como el nombre y el precio de un producto. | Los datos de cada producto quedan juntos y puedo leerlos por el nombre de su propiedad, como `producto.precio`. |
+| Función | Necesito repetir una tarea en varias partes del programa. | Escribo la tarea una vez y puedo llamarla con distintos datos. |
+| `forEach()` | Necesito hacer una acción con cada elemento, como mostrarlo en consola. | Recorro el vector sin manejar un contador manualmente. |
+| `map()` | Necesito calcular o transformar un valor por cada elemento. | Obtengo un vector nuevo con los resultados en el mismo orden. |
+| `filter()` | Necesito quedarme solo con los elementos que cumplen una condición. | Obtengo un vector nuevo con los elementos seleccionados. |
+| Clase | Necesito crear varios objetos con las mismas propiedades y métodos. | Defino la estructura una vez y creo objetos con sus propios datos usando `new`. |
+
+**¿Qué muestra?**
+
+| # | Código | Mi predicción | Comprobado |
+|---|---|---|---|
+| 1 | `[3, 8, 1].map((n) => n * 2)` | `[6, 16, 2]` | `[6, 16, 2]` |
+| 2 | `[3, 8, 1].filter((n) => n > 2)` | `[3, 8]` | `[3, 8]` |
+| 3 | `const r = [3, 8, 1].forEach((n) => n * 2); r` | `undefined` | `undefined` |
+| 4 | `[3, 8, 1].filter((n) => n > 5).map((n) => n + 1)` | `[9]` | `[9]` |
+| 5 | `class A { constructor(n) { this.n = n; } doble() { return this.n * 2; } } new A(4).doble()` | `8` | `8` |
+| 6 | `const o = { n: 1 }; o.m` | `undefined` | `undefined` |
+
+En la **fila 3**, `forEach()` ignora el valor devuelto en cada vuelta y devuelve `undefined`. En la **fila 4**, `filter()` deja `[8]` y luego `map()` le suma `1` a ese elemento. En la **fila 6**, `o.m` devuelve `undefined` porque la propiedad `m` está ausente.
+
+**Autoevaluación**
+
+Marcá **Sí** si podés explicar o hacer el ejercicio por tu cuenta. Si todavía necesitás ayuda, marcá **Aún no**.
+
+| Indicador | Sí | Aún no |
+|---|---|---|
+| Explico por qué usar un vector de objetos en lugar de vectores paralelos. | | |
+| Elijo entre `for`, `for...of` y `forEach` y explico por qué. | | |
+| Reescribo un `for` + `push` con `map` y un `for` + `if` + `push` con `filter`. | | |
+| Creo un objeto con propiedades y un método. | | |
+| Declaro una clase con constructor y la uso con `new`. | | |
+| Explico qué hace el modelo, la vista y el controlador. | | |
+
+**¿Qué aprendí?** Aprendí a recorrer, transformar y filtrar arreglos y crear objetos.
+
+</details>
+
 
 > 📌 **AQUÍ SE PEGAN LOS BLOQUES NUEVOS.** Pegue el bloque de cada clase (desde `<details>` hasta `</details>`) justo **arriba** de este aviso. El aviso queda siempre al final de la sección.
 

@@ -17,3 +17,8 @@ todos.forEach((t) => console.log(`Título de tarjeta: ${t.textContent}`));
 
 const h1 = document.querySelector("#portada h1");
 console.log(`El <h1> de la portada dice: ${h1.textContent}`);
+
+
+console.log("");
+console.log("FIN DEL SELECTORES.JS");
+console.log("");

@@ -145,7 +145,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
             <td>Funciones</td>
             <td align="left">Aprendí funciones, parámetros, retornos, validaciones, callbacks y closures.</td>
             <td align="center"><a href="UA1/S8-24-11-2026/" target="_blank" rel="noopener">Ver</a></td>
-            <td align="center"><a href="UA1/S08/capturas/" target="_blank" rel="noopener">Ver</a></td>
+            <td align="center"><a href="UA1/S8-24-11-2026/capturas/1.png" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S8-24-11-2026/Refuerzo/Refuerzo_S08_Funciones_Greivin_Montero_Contreras.pdf" target="_blank" rel="noopener">PDF</a></td>
             <td align="center"><a href="UA1/S7-23-11-2026/Cuestionario_S07_Repeticiones_Vectores_Matrices.md" target="_blank" rel="noopener">Ver</a></td>
         </tr>

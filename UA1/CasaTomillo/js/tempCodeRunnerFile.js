@@ -1,1 +1,0 @@
-style: "currency", currency: "CRC"

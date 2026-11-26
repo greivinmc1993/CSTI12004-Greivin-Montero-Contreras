@@ -86,7 +86,7 @@ console.log(`Talleres: ${talleres.length}`);
 
 //* Mostramos el promedio con separación de miles.
 
-console.log(`Promedio: ₡${promedio.toLocaleString("fr-FR")}`);
+console.log(`Promedio: ₡${promedio.toLocaleString("es-CR")}`);
 
 //* Mostramos la cantidad de talleres que superan los 80000.
 
